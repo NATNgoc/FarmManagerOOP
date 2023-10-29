@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmManagerOOP", "Bai04\FarmManagerOOP.csproj", "{15D214C8-A908-4E39-9824-BEA27A1917F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D214C8-A908-4E39-9824-BEA27A1917F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D214C8-A908-4E39-9824-BEA27A1917F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D214C8-A908-4E39-9824-BEA27A1917F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D214C8-A908-4E39-9824-BEA27A1917F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A629D4-A55B-443B-8AA4-DCF63239A7CE}
+	EndGlobalSection
+EndGlobal
