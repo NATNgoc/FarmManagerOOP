@@ -9,14 +9,11 @@ namespace Bai04.Controller
 {
     class FarmController
     {
-        private List<Animal> listOfAnimal =new List<Animal>();
+        private List<Animal> listOfAnimal = Farm.GetInstance().getListAnimal();
 
 
 
-       public FarmController()
-        {
-            listOfAnimal = Farm.GetInstance().getListAnimal();
-        }
+       public FarmController(){ }
 
         public void feed()
         {
